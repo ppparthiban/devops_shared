@@ -1,1 +1,1 @@
-# This repository is for the code snippets of DevOps Autonmations Projects
+# This repository is for the DevOps and Automation code snippets
